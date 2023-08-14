@@ -1,0 +1,26 @@
+steps to install and set up Android Studio Project:
+
+**Installing Android Studio:**
+
+1. **Download Android Studio:** Visit the official Android Studio download page: https://developer.android.com/studio
+
+2. **Choose Your OS:** Download the installer for your operating system (Windows, macOS, or Linux).
+
+3. **Install:**
+   - **Windows:** Run the downloaded installer and follow the on-screen instructions. You might need to choose the installation location and confirm settings.
+   - **macOS:** Open the downloaded `.dmg` file, drag the Android Studio icon to the Applications folder, and then open it from there.
+   - **Linux:** Extract the downloaded archive to a location of your choice and run the `studio.sh` script in the `bin` directory.
+
+4. **Launch Android Studio:** Once installed, launch Android Studio from your applications menu or by executing the appropriate command in the terminal.
+
+**Setting Up Android Studio:**
+
+1. **Welcome Screen:** On the first launch, you'll see the Android Studio Welcome screen. Click "Start a new Android Studio project" to create a new project or "Open an existing Android Studio project" to work on an existing one.
+
+2. **SDK Components Setup:** Android Studio will prompt you to install necessary SDK components, including the Android SDK, emulator images, and more. Follow the on-screen instructions to proceed with the installation.
+
+3. **AVD Manager (Emulator):** After the installation, you might want to set up an Android Virtual Device (AVD) to test your apps. You can do this by clicking on the "Configure" button and selecting "AVD Manager." Follow the prompts to create and launch an emulator.
+
+
+
+
